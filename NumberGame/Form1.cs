@@ -54,11 +54,11 @@ namespace NumberGame
         private void update(int button)
         {
             int v = -1 * (((count % 2) * 2) - 1);
-            if (1 == v)
+            if (-1 == v)
             {
                 label3.Text = "+";
             }
-            else if (-1 == v)
+            else if (1 == v)
             {
                 label3.Text = "-";
             }
