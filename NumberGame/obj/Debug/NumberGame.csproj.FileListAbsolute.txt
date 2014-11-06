@@ -1,1 +1,9 @@
 c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\obj\Debug\NumberGame.csprojResolveAssemblyReference.cache
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\obj\Debug\NumberGame.Form1.resources
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\obj\Debug\NumberGame.Properties.Resources.resources
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.GenerateResource.Cache
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+c:\users\smough\documents\visual studio 2013\Projects\NumberGame\NumberGame\obj\Debug\NumberGame.pdb
