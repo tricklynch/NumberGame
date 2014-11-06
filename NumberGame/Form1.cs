@@ -73,7 +73,30 @@ namespace NumberGame
                 }
                 val[i] += v;
             }
-            label2.Text += button.ToString();
+            if (160 <= label2.Text.Length)
+            {
+                label2.Text = "Scrub";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+                label2.Text += "          \n";
+                label2.Text += "          ";
+            }
+            else
+            {
+                label2.Text += button.ToString();
+            }
             switch (button)
             {
                 case 1:
