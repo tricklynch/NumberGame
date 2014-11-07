@@ -13,7 +13,7 @@ namespace NumberGame
     public partial class Form1 : Form
     {
         int[] val = { 0, 0, 2, 2, 3 };
-        int c = -1,count = 0;
+        int c = -1, count = 0;
 
         public Form1()
         {
@@ -130,7 +130,6 @@ namespace NumberGame
             {
                 label1.Text = "You won in " + label1.Text + " moves!";
             }
-            // Comment to test things
         }
     }
 }
